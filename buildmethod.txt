@@ -1,0 +1,4 @@
+use this:
+./gradlew clean
+./gradlew setupDecompWorkspace
+./gradlew build -x test
